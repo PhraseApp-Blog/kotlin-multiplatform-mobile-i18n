@@ -36,8 +36,8 @@ class MainActivity : AppCompatActivity() {
         }
         seekbar.setOnSeekBarChangeListener(object : OnSeekBarChangeListener {
             override fun onProgressChanged(seekBar: SeekBar, i: Int, b: Boolean) {
-                val plural = text.getMyPluralFormattedDesc(i).toString(context = this@MainActivity)
-                summary.text = plural
+                summary.text = text.getMyPluralFormattedDesc(i).toString(context = this@MainActivity)
+
             }
 
             override fun onStartTrackingTouch(seekBar: SeekBar) {}

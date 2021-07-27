@@ -18,8 +18,7 @@ class Text {
     }
 
     fun getSelectQuantity(): StringDesc {
-        return StringDesc.Resource(
-            MR.strings.select_quantity)
+        return StringDesc.Resource(MR.strings.select_quantity)
     }
 
     fun getMyPluralFormattedDesc(quantity: Int): StringDesc {
