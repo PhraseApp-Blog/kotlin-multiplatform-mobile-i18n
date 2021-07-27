@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <resources>
-    <plural name="shirt">
-        <item quantity="zero">%d Shirts</item>
-        <item quantity="one">%d Shirt</item>
-        <item quantity="two">%d Shirts</item>
-        <item quantity="few">%d Shirts</item>
-        <item quantity="many">%d Shirts</item>
-        <item quantity="other">%d Shirts</item>
+    <plural name="dress">
+        <item quantity="zero">%d dresses</item>
+        <item quantity="one">%d dress</item>
+        <item quantity="two">%d dresses</item>
+        <item quantity="few">%d dresses</item>
+        <item quantity="many">%d dresses</item>
+        <item quantity="other">%d dresses</item>
     </plural>
 </resources>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <resources>
     <string name="greeting">Hello</string>
-    <string name="greeting_with_name">Hello %s</string>
+    <string name="greeting_with_name">Hello, %s</string>
     <string name="select_quantity">Select quantity</string>
 </resources>

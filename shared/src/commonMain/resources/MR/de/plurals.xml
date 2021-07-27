@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<resources>
+    <plural name="dress">
+        <item quantity="zero">%d Kleider</item>
+        <item quantity="one">%d Kleid</item>
+        <item quantity="two">%d Kleider</item>
+        <item quantity="few">%d Kleider</item>
+        <item quantity="many">%d Kleider</item>
+        <item quantity="other">%d Kleider</item>
+    </plural>
+</resources>

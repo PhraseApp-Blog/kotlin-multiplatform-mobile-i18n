@@ -24,6 +24,6 @@ class Text {
 
     fun getMyPluralFormattedDesc(quantity: Int): StringDesc {
         // we pass quantity as selector for correct plural string and for pass quantity as argument for formatting
-        return StringDesc.PluralFormatted(MR.plurals.shirt, quantity, quantity)
+        return StringDesc.PluralFormatted(MR.plurals.dress, quantity, quantity)
     }
 }

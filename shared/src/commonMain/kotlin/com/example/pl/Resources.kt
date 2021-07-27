@@ -7,6 +7,6 @@ import org.example.library.MR
 class Resources {
 
     fun getImage(): ImageResource? {
-        return MR.images.getImageByFileName("shirt")
+        return MR.images.getImageByFileName("dress")
     }
 }
